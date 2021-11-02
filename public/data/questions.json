@@ -1,0 +1,86 @@
+[
+    {
+        "label": "What is the capital of France?",
+        "choices": [
+            {
+                "value": "New York",
+                "isCorrect": false
+            },
+            {
+                "value": "London",
+                "isCorrect": false
+            },
+            {
+                "value": "Paris",
+                "isCorrect": true
+            },
+            {
+                "value": "Dublin",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "label": "Who is CEO of Tesla?",
+        "choices": [
+            {
+                "value": "Jeff Bezos",
+                "isCorrect": false
+            },
+            {
+                "value": "Elon Musk",
+                "isCorrect": true
+            },
+            {
+                "value": "Bill Gates",
+                "isCorrect": false
+            },
+            {
+                "value": "Tony Stark",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "label": "The iPhone was created by which company?",
+        "choices": [
+            {
+                "value": "Apple",
+                "isCorrect": true
+            },
+            {
+                "value": "Intel",
+                "isCorrect": false
+            },
+            {
+                "value": "Amazon",
+                "isCorrect": false
+            },
+            {
+                "value": "Microsoft",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "label": "How many Harry Potter books are there?",
+        "choices": [
+            {
+                "value": "1",
+                "isCorrect": false
+            },
+            {
+                "value": "4",
+                "isCorrect": false
+            },
+            {
+                "value": "6",
+                "isCorrect": false
+            },
+            {
+                "value": "7",
+                "isCorrect": true
+            }
+        ]
+    }
+]
